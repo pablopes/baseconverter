@@ -1,4 +1,8 @@
-<h1 align="center">Converter Binary to Decimal</h1>
+<h1 align="center">
+ <a href="https://6003a4559d075217e12ea0e6--priceless-hodgkin-16a045.netlify.app/" alt="site do converter binary to decimal">
+  Converter Binary to Decimal
+</a>
+</h1>
 
 <h3 align="center">
   Seu sistema de conversão de bases decimais e binária.
